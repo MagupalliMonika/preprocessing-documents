@@ -1,2 +1,7 @@
 git
 git+https://github.com/ChaoningZhang/MobileSAM.git
+
+!apt-get install tesseract-ocr -y
+!pip install pytesseract
+
+!pip install blur-detector
